@@ -5,13 +5,12 @@
             "sourcePath": "C:\\SalesforceDX\\Coaching\\force-app",
             "isDirectory": true,
             "size": 0,
-            "modifiedTime": 1507578331935,
-            "changeTime": 1507578331935,
-            "contentHash": "d80921866193738c326f14c90cf1fdca93236488",
+            "modifiedTime": 1507640627745,
+            "changeTime": 1507640627745,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
             "isMetadataFile": false,
             "state": "u",
-            "isWorkspace": false,
-            "isArtifactRoot": true
+            "isWorkspace": false
         }
     ],
     [
@@ -32,16 +31,14 @@
     [
         "C:\\SalesforceDX\\Coaching\\force-app\\main\\default",
         {
+            "state": "u",
             "sourcePath": "C:\\SalesforceDX\\Coaching\\force-app\\main\\default",
             "isDirectory": true,
-            "size": 0,
-            "modifiedTime": 1507634041775,
-            "changeTime": 1507634041848,
-            "contentHash": "df722e829b7a6a7630651123b390ed6a8e0a809a",
             "isMetadataFile": false,
-            "state": "u",
-            "isWorkspace": false,
-            "isArtifactRoot": false
+            "size": 0,
+            "modifiedTime": 1507642806099,
+            "changeTime": 1507642806099,
+            "contentHash": "d8417619f8cb74acd7a6c2b95aaad38138801297"
         }
     ],
     [
@@ -79,14 +76,13 @@
         {
             "sourcePath": "C:\\SalesforceDX\\Coaching\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocator.cmp",
             "isDirectory": false,
-            "size": 37,
-            "modifiedTime": 1507633175405,
-            "changeTime": 1507633175405,
-            "contentHash": "bac5bb79bbfe029fc6eb7729b2e53aee4b008e71",
+            "size": 201,
+            "modifiedTime": 1507641544626,
+            "changeTime": 1507641544626,
+            "contentHash": "58b2bffcb14a808377e38fbcfd93596639877fa0",
             "isMetadataFile": false,
             "state": "u",
-            "isWorkspace": false,
-            "isArtifactRoot": false
+            "isWorkspace": false
         }
     ],
     [
@@ -109,14 +105,13 @@
         {
             "sourcePath": "C:\\SalesforceDX\\Coaching\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocator.css",
             "isDirectory": false,
-            "size": 10,
-            "modifiedTime": 1507633175413,
-            "changeTime": 1507633175413,
-            "contentHash": "44063bf628f237edaa1f3f358714dd40ac321703",
+            "size": 145,
+            "modifiedTime": 1507641607896,
+            "changeTime": 1507641607896,
+            "contentHash": "a46918e9b129efb83c5d539ca62f6255abaa6336",
             "isMetadataFile": false,
             "state": "u",
-            "isWorkspace": false,
-            "isArtifactRoot": false
+            "isWorkspace": false
         }
     ],
     [
@@ -1037,66 +1032,157 @@
     [
         "C:\\SalesforceDX\\Coaching\\force-app\\main\\default\\classes",
         {
-            "state": "u",
             "sourcePath": "C:\\SalesforceDX\\Coaching\\force-app\\main\\default\\classes",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1507641262562,
             "changeTime": 1507641262562,
-            "contentHash": "bab51e9e3e0738f215e25a12cae76dc0e97b5f43"
+            "contentHash": "bab51e9e3e0738f215e25a12cae76dc0e97b5f43",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "C:\\SalesforceDX\\Coaching\\force-app\\main\\default\\classes\\AccountController.cls",
         {
-            "state": "u",
             "sourcePath": "C:\\SalesforceDX\\Coaching\\force-app\\main\\default\\classes\\AccountController.cls",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 88,
             "modifiedTime": 1507641204090,
             "changeTime": 1507641204090,
-            "contentHash": "6ee7b968c3fdc18a21fccb9c245e392c62dfd374"
+            "contentHash": "6ee7b968c3fdc18a21fccb9c245e392c62dfd374",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "C:\\SalesforceDX\\Coaching\\force-app\\main\\default\\classes\\AccountController.cls-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\SalesforceDX\\Coaching\\force-app\\main\\default\\classes\\AccountController.cls-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 195,
             "modifiedTime": 1507641204093,
             "changeTime": 1507641204093,
-            "contentHash": "d388a388b0a95b0227831a265ba9b57f8672d004"
+            "contentHash": "d388a388b0a95b0227831a265ba9b57f8672d004",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\SalesforceDX\\Coaching\\force-app\\main\\default\\classes\\SampleApexClass.cls",
         {
-            "state": "u",
             "sourcePath": "C:\\SalesforceDX\\Coaching\\force-app\\main\\default\\classes\\SampleApexClass.cls",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 84,
             "modifiedTime": 1507641262560,
             "changeTime": 1507641262560,
-            "contentHash": "a3f5526611e822b20ae1e238c2a01ed374e36bc0"
+            "contentHash": "a3f5526611e822b20ae1e238c2a01ed374e36bc0",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "C:\\SalesforceDX\\Coaching\\force-app\\main\\default\\classes\\SampleApexClass.cls-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\SalesforceDX\\Coaching\\force-app\\main\\default\\classes\\SampleApexClass.cls-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 193,
             "modifiedTime": 1507641262563,
             "changeTime": 1507641262563,
-            "contentHash": "0e53fb5ee0f21128a74218d3bf8c53d4f26f0850"
+            "contentHash": "0e53fb5ee0f21128a74218d3bf8c53d4f26f0850",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\SalesforceDX\\Coaching\\force-app\\main\\default\\tabs\\Account_Locator.tab-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\SalesforceDX\\Coaching\\force-app\\main\\default\\tabs\\Account_Locator.tab-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 331,
+            "modifiedTime": 1507642806098,
+            "changeTime": 1507642806098,
+            "contentHash": "ff56c6e601fcc4718a2a3e82a496005118de20a0"
+        }
+    ],
+    [
+        "C:\\SalesforceDX\\Coaching\\force-app\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\SalesforceDX\\Coaching\\force-app\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 5782,
+            "modifiedTime": 1507642806111,
+            "changeTime": 1507642806111,
+            "contentHash": "3ca8ae8f974e141922136642ca3c5b9f404b2caa"
+        }
+    ],
+    [
+        "C:\\SalesforceDX\\Coaching\\force-app\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\SalesforceDX\\Coaching\\force-app\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 6122,
+            "modifiedTime": 1507642806124,
+            "changeTime": 1507642806124,
+            "contentHash": "057d24d2e02d7174544a18ce1c00ea7f3b831aab"
+        }
+    ],
+    [
+        "C:\\SalesforceDX\\Coaching\\force-app\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\SalesforceDX\\Coaching\\force-app\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 5786,
+            "modifiedTime": 1507642806135,
+            "changeTime": 1507642806135,
+            "contentHash": "7ff1419a802c2de0fa49e1fecd11ce53004a054c"
+        }
+    ],
+    [
+        "C:\\SalesforceDX\\Coaching\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\SalesforceDX\\Coaching\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 18356,
+            "modifiedTime": 1507642806147,
+            "changeTime": 1507642806147,
+            "contentHash": "9a79797ca39a520fa860d261b332be4570075ff6"
+        }
+    ],
+    [
+        "C:\\SalesforceDX\\Coaching\\force-app\\main\\default\\tabs",
+        {
+            "state": "u",
+            "sourcePath": "C:\\SalesforceDX\\Coaching\\force-app\\main\\default\\tabs",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1507642806097,
+            "changeTime": 1507642806097,
+            "contentHash": "e07904c1411fc5069c20a25aedc7d6bdcade7b1f"
+        }
+    ],
+    [
+        "C:\\SalesforceDX\\Coaching\\force-app\\main\\default\\profiles",
+        {
+            "state": "u",
+            "sourcePath": "C:\\SalesforceDX\\Coaching\\force-app\\main\\default\\profiles",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1507642806146,
+            "changeTime": 1507642806146,
+            "contentHash": "9c367b0e719eb8c48c5b0d9cbfb5f580a4bd6717"
         }
     ]
 ]
