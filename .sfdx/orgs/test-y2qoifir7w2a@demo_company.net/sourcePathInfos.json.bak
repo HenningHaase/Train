@@ -1,0 +1,107 @@
+[
+    [
+        "C:\\SalesforceDX\\Coaching\\force-app",
+        {
+            "state": "n",
+            "sourcePath": "C:\\SalesforceDX\\Coaching\\force-app",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1507578331935,
+            "changeTime": 1507578331935,
+            "contentHash": "d80921866193738c326f14c90cf1fdca93236488",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "C:\\SalesforceDX\\Coaching\\force-app\\main",
+        {
+            "state": "n",
+            "sourcePath": "C:\\SalesforceDX\\Coaching\\force-app\\main",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1507577109145,
+            "changeTime": 1507577109145,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\SalesforceDX\\Coaching\\force-app\\main\\default",
+        {
+            "state": "n",
+            "sourcePath": "C:\\SalesforceDX\\Coaching\\force-app\\main\\default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1507577109146,
+            "changeTime": 1507577109146,
+            "contentHash": "2c2a89c1c45d2977cfce538e475902f5520f4382",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\SalesforceDX\\Coaching\\force-app\\main\\default\\aura",
+        {
+            "state": "n",
+            "sourcePath": "C:\\SalesforceDX\\Coaching\\force-app\\main\\default\\aura",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1507577109146,
+            "changeTime": 1507577109146,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\SalesforceDX\\Coaching\\force-app\\SampleApexClass.cls",
+        {
+            "state": "n",
+            "sourcePath": "C:\\SalesforceDX\\Coaching\\force-app\\SampleApexClass.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 83,
+            "modifiedTime": 1507623258591,
+            "changeTime": 1507623258591,
+            "contentHash": "05b841dd69e107297420f2a6798f1b40d326616d",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\SalesforceDX\\Coaching\\force-app\\SampleApexClass.cls-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\SalesforceDX\\Coaching\\force-app\\SampleApexClass.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 193,
+            "modifiedTime": 1507578331935,
+            "changeTime": 1507578331935,
+            "contentHash": "0e53fb5ee0f21128a74218d3bf8c53d4f26f0850",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\SalesforceDX\\Coaching",
+        {
+            "state": "n",
+            "sourcePath": "C:\\SalesforceDX\\Coaching",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1507578431419,
+            "changeTime": 1507578431419,
+            "contentHash": "d5976578efc4b62000886d23a38fe36ac359ab62",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ]
+]
