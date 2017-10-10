@@ -32,16 +32,14 @@
     [
         "C:\\SalesforceDX\\Coaching\\force-app\\main\\default",
         {
+            "state": "u",
             "sourcePath": "C:\\SalesforceDX\\Coaching\\force-app\\main\\default",
             "isDirectory": true,
-            "size": 0,
-            "modifiedTime": 1507651143211,
-            "changeTime": 1507651143211,
-            "contentHash": "d8417619f8cb74acd7a6c2b95aaad38138801297",
             "isMetadataFile": false,
-            "state": "u",
-            "isWorkspace": false,
-            "isArtifactRoot": false
+            "size": 0,
+            "modifiedTime": 1507669769766,
+            "changeTime": 1507669769766,
+            "contentHash": "0d7312666f7b358c4f333f091f45816d28936bf2"
         }
     ],
     [
@@ -77,91 +75,79 @@
     [
         "C:\\SalesforceDX\\Coaching\\force-app\\main\\default\\aura\\AccountList\\AccountList.cmp",
         {
+            "state": "u",
             "sourcePath": "C:\\SalesforceDX\\Coaching\\force-app\\main\\default\\aura\\AccountList\\AccountList.cmp",
             "isDirectory": false,
-            "size": 386,
-            "modifiedTime": 1507667843712,
-            "changeTime": 1507667843712,
-            "contentHash": "11819117628373d48336b1561139d82104ae9f3c",
             "isMetadataFile": false,
-            "state": "u",
-            "isWorkspace": false,
-            "isArtifactRoot": false
+            "size": 380,
+            "modifiedTime": 1507669769822,
+            "changeTime": 1507669769822,
+            "contentHash": "fe293e519b6331f569a52817d5b946ede8fb4671"
         }
     ],
     [
         "C:\\SalesforceDX\\Coaching\\force-app\\main\\default\\aura\\AccountList\\AccountList.cmp-meta.xml",
         {
+            "state": "u",
             "sourcePath": "C:\\SalesforceDX\\Coaching\\force-app\\main\\default\\aura\\AccountList\\AccountList.cmp-meta.xml",
             "isDirectory": false,
-            "size": 243,
-            "modifiedTime": 1507667818522,
-            "changeTime": 1507667818522,
-            "contentHash": "22ef10b2acb59793801abaf45e483c705bc14c8c",
             "isMetadataFile": true,
-            "state": "u",
-            "isWorkspace": false,
-            "isArtifactRoot": false
+            "size": 228,
+            "modifiedTime": 1507669769799,
+            "changeTime": 1507669769799,
+            "contentHash": "43c6ca14f7cd85b7b929d871194cb6292f131f8e"
         }
     ],
     [
         "C:\\SalesforceDX\\Coaching\\force-app\\main\\default\\aura\\AccountList\\AccountList.css",
         {
+            "state": "u",
             "sourcePath": "C:\\SalesforceDX\\Coaching\\force-app\\main\\default\\aura\\AccountList\\AccountList.css",
             "isDirectory": false,
-            "size": 111,
-            "modifiedTime": 1507667881766,
-            "changeTime": 1507667881766,
-            "contentHash": "ff97680a451dccf775d504143f673481b13a3300",
             "isMetadataFile": false,
-            "state": "u",
-            "isWorkspace": false,
-            "isArtifactRoot": false
+            "size": 111,
+            "modifiedTime": 1507669769832,
+            "changeTime": 1507669769832,
+            "contentHash": "ff97680a451dccf775d504143f673481b13a3300"
         }
     ],
     [
         "C:\\SalesforceDX\\Coaching\\force-app\\main\\default\\aura\\AccountList\\AccountListController.js",
         {
+            "state": "u",
             "sourcePath": "C:\\SalesforceDX\\Coaching\\force-app\\main\\default\\aura\\AccountList\\AccountListController.js",
             "isDirectory": false,
-            "size": 256,
-            "modifiedTime": 1507667866344,
-            "changeTime": 1507667866344,
-            "contentHash": "9f73369ca66b087616f3bb8205b8e3f57484b270",
             "isMetadataFile": false,
-            "state": "u",
-            "isWorkspace": false,
-            "isArtifactRoot": false
+            "size": 264,
+            "modifiedTime": 1507669769854,
+            "changeTime": 1507669769854,
+            "contentHash": "b8a2f0a3d0921a6331851685ffe2347bbb95a1f2"
         }
     ],
     [
         "C:\\SalesforceDX\\Coaching\\force-app\\main\\default\\aura\\AccountList\\AccountListHelper.js",
         {
+            "state": "u",
             "sourcePath": "C:\\SalesforceDX\\Coaching\\force-app\\main\\default\\aura\\AccountList\\AccountListHelper.js",
             "isDirectory": false,
-            "size": 45,
-            "modifiedTime": 1507667818530,
-            "changeTime": 1507667818530,
-            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
             "isMetadataFile": false,
-            "state": "u",
-            "isWorkspace": false,
-            "isArtifactRoot": false
+            "size": 44,
+            "modifiedTime": 1507669769864,
+            "changeTime": 1507669769864,
+            "contentHash": "fa0ec188d1d404a7d907cd49c9dd8e2ade86c99d"
         }
     ],
     [
         "C:\\SalesforceDX\\Coaching\\force-app\\main\\default\\aura\\AccountList\\AccountListRenderer.js",
         {
+            "state": "u",
             "sourcePath": "C:\\SalesforceDX\\Coaching\\force-app\\main\\default\\aura\\AccountList\\AccountListRenderer.js",
             "isDirectory": false,
-            "size": 50,
-            "modifiedTime": 1507667818537,
-            "changeTime": 1507667818537,
-            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
             "isMetadataFile": false,
-            "state": "u",
-            "isWorkspace": false,
-            "isArtifactRoot": false
+            "size": 49,
+            "modifiedTime": 1507669769843,
+            "changeTime": 1507669769843,
+            "contentHash": "5c9d3500f47ee794776fbf674e09fad5e0855732"
         }
     ],
     [
@@ -289,14 +275,13 @@
         {
             "sourcePath": "C:\\SalesforceDX\\Coaching\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocator.cmp",
             "isDirectory": false,
-            "size": 246,
-            "modifiedTime": 1507667908375,
-            "changeTime": 1507667908375,
-            "contentHash": "dff64fadd9f66db84d479a837a93c12556ed5405",
+            "size": 237,
+            "modifiedTime": 1507668585146,
+            "changeTime": 1507668585146,
+            "contentHash": "37742ad0b7d68f8eac89b2c873a318c7073d8b1f",
             "isMetadataFile": false,
             "state": "u",
-            "isWorkspace": false,
-            "isArtifactRoot": false
+            "isWorkspace": false
         }
     ],
     [
@@ -392,15 +377,15 @@
     [
         "C:\\SalesforceDX\\Coaching\\force-app\\main\\default\\classes\\AccountController.cls",
         {
-            "state": "u",
             "sourcePath": "C:\\SalesforceDX\\Coaching\\force-app\\main\\default\\classes\\AccountController.cls",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 413,
             "modifiedTime": 1507668268844,
             "changeTime": 1507668268844,
-            "isWorkspace": false,
-            "contentHash": "aea79ff748efa7cff91391b06948ff7d40e71685"
+            "contentHash": "aea79ff748efa7cff91391b06948ff7d40e71685",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false
         }
     ],
     [
@@ -1421,6 +1406,45 @@
             "state": "u",
             "isWorkspace": true,
             "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\SalesforceDX\\Coaching\\force-app\\main\\default\\staticresources\\leaflet.resource-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\SalesforceDX\\Coaching\\force-app\\main\\default\\staticresources\\leaflet.resource-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 266,
+            "modifiedTime": 1507669769778,
+            "changeTime": 1507669769778,
+            "contentHash": "416ad2bb86978ffcbf9277cc0b6538747c8ee82c"
+        }
+    ],
+    [
+        "C:\\SalesforceDX\\Coaching\\force-app\\main\\default\\staticresources\\leaflet.resource",
+        {
+            "state": "u",
+            "sourcePath": "C:\\SalesforceDX\\Coaching\\force-app\\main\\default\\staticresources\\leaflet.resource",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 374488,
+            "modifiedTime": 1507669769787,
+            "changeTime": 1507669769787,
+            "contentHash": "9acfd85fa1b2ef044659924459bc2c4ec9fb3dc0"
+        }
+    ],
+    [
+        "C:\\SalesforceDX\\Coaching\\force-app\\main\\default\\staticresources",
+        {
+            "state": "u",
+            "sourcePath": "C:\\SalesforceDX\\Coaching\\force-app\\main\\default\\staticresources",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1507669769786,
+            "changeTime": 1507669769786,
+            "contentHash": "3f1f5b622ae048af33321106049a3d2e9c6f32fa"
         }
     ]
 ]
